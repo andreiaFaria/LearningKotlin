@@ -23,6 +23,7 @@ fun main() {
     //TIP Advent Challenge
 
     println("»»»»»»»»»»»»» ADVENT CHALLENGE »»»»»»»»»»»")
-    DayOne.challengeV5()
+    //DayOne.challengeV5()
+    DayTwo.sumSets()
     
 }
