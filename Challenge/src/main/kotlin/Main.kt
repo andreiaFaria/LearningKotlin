@@ -25,6 +25,6 @@ fun main() {
     println("»»»»»»»»»»»»» ADVENT CHALLENGE »»»»»»»»»»»")
     //DayOne.challengeV5()
     //DayTwo.sumSets()
-    DayThree.symbolsInList()
+    DayThreeV2.symbolsInList()
     
 }
